@@ -23,6 +23,6 @@ that expects a partitioning depth as an input.
 ![Result: ](Pictures/spheretribydepthresult.png)
 
 ##### Copyright:
- Peter Gagarinov, PhD, PhD, <br>
+ Peter Gagarinov, PhD, <br>
  Moscow State University, <br>
- &ensp;&ensp;&ensp; Faculty of Computational Mathematics and Computer Science,<br> &ensp;&ensp;&ensp; System Analysis Department 2011-2016
+ &ensp;&ensp;&ensp; Faculty of Computational Mathematics and Computer Science,<br> &ensp;&ensp;&ensp; System Analysis Department 2011-2017
