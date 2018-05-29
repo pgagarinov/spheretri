@@ -26,3 +26,14 @@ that expects a partitioning depth as an input.
  Peter Gagarinov, PhD, <br>
  Moscow State University, <br>
  &ensp;&ensp;&ensp; Faculty of Computational Mathematics and Computer Science,<br> &ensp;&ensp;&ensp; System Analysis Department 2011-2017
+
+##### Citing key:
+		@misc{Gagarinov2017,
+		  author = {Gagarinov, P.V.},
+		  title = {SphereTri},
+		  year = {2017},
+		  publisher = {GitHub},
+		  journal = {GitHub repository},
+		  howpublished = {\url{https://github.com/pgagarinov/spheretri}},
+		  commit = {a6c89644e2451b0cf73ce386e52ff37f75a503cc}
+		}
