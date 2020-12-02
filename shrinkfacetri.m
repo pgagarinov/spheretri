@@ -179,13 +179,13 @@ while true
             f2eIsDirPartMat(:,[1 2]);...
             f2eIsDirPartMat(:,[2 3])]);
         %
-        %#1 - edges from the first group
-        %#2 - shift indices for vertices correspond to shift idices for 
+        % no.1 - edges from the first group
+        % no.2 - shift indices for vertices correspond to shift idices for 
         %    edges
         f2e2NewMat=nEdges+...
             [repmat(indShiftEdgeVec,3,1)+kron([1;0;2]*nShrinkedFaces,...
-            ones(nShrinkedFaces,1)),...%#1
-            3*nShrinkedFaces-nVerts+dirMat*nNewVerts+... %#2
+            ones(nShrinkedFaces,1)),...% no.1
+            3*nShrinkedFaces-nVerts+dirMat*nNewVerts+... % no.2
             [indVF13Vec indVF12Vec;indVF12Vec indVF23Vec;...
             indVF23Vec indVF13Vec]];
         %
